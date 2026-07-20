@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(122, 211, 86);
+}
+p{
+    
+    color: rgb(251, 253, 253);
+    width: 300px;
+    height: 600px;
+    font-size: larger;
+    background-color: rgb(117, 22, 94);
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
