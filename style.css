@@ -1,16 +1,27 @@
 body{
     background-color: rgb(122, 211, 86);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
 }
 p{
     
     color: rgb(251, 253, 253);
-    width: 300px;
-    height: 600px;
+    width: 1080px;
+    height: 36px;
     font-size: larger;
     background-color: rgb(117, 22, 94);
     border: 1px solid black;
     border-radius: 10px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    flex-shrink: 1070xp;
+    align-items: center;    
+}
+
+#test{
+    height: 80px;
+    width: 100%;
+    border: 1px solid red;
 }

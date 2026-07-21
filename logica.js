@@ -1,0 +1,1 @@
+console.log("Eu sou cara mais foda dessa pora toda!")
