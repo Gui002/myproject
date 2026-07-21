@@ -1,1 +1,1 @@
-console.log("Eu sou cara mais foda dessa pora toda!")
+console.log("Oi eu sou o Goku")
