@@ -5,6 +5,11 @@ body{
     align-items: center;
     border: 1px solid black;
 }
+
+h1{
+	color:white;	
+
+}
 p{
     
     color: rgb(251, 253, 253);
